@@ -5,4 +5,5 @@ Lower Level Software Diagram
 ![Low Level Software](/images/Lower-Level-Software-Diagram.jpeg)
 Higher Level Software Diagram
 ![Higher Level Software](/images/Higher-Level-Software-Diagram.jpeg)
+Motor Driver BJT + PIC32 Schematic
 ![PIC32 Motor Driver Schematic](/images/Pic-32-Schematic.jpeg)
