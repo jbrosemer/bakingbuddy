@@ -17,9 +17,9 @@
 #include “scale.h”
 
 void main(){
-uart_init();
-analog_in_init(); //initialize functions
-TRISB = 0;
-command(); //uart module command
+	uart_init();
+	analog_in_init(); //initialize functions
+	TRISB = 0;
+	command(); //uart module command
 }
 
